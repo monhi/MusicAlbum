@@ -27,3 +27,5 @@ After downloading the project, do following steps to run the program:
 * Default password is <em>12345</em>
 * Upload new music files (*.mp3 files) from <em>Album</em>  menu. 
 * You can create new users from <em>Admin</em> menu.
+* Web program tries to play first music after successfull login, but some browsers (firefox for example) may prevent it from playing.
+* When a music is finished, the next music will be played in circular.
