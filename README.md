@@ -29,3 +29,8 @@ After downloading the project, do following steps to run the program:
 * You can create new users from <em>Admin</em> menu.
 * Web program tries to play first music after successfull login, but some browsers (firefox for example) may prevent it from playing.
 * When a music is finished, the next music will be played in circular.
+
+**Acknowledgement**
+
+* Special thanks to webprog.io site (Mr Ali Sheikh) for great bootstrap tutorial.
+* Also special thanks to Bethany Griggs for great `Node Cookbook fourth edition` book. I use some parts of it in this project.
