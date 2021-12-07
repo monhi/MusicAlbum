@@ -34,6 +34,7 @@ After downloading the project, do following steps to run the program:
 After installing mysql server on your system, you are supposed to run following 2 commands in mysql workbench or heidisql to resolve the login bug in mysql
 
 >ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
+>
 >flush privileges;
 
 
