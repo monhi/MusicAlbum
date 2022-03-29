@@ -8,7 +8,7 @@ This project also supports different users and each user can have his/her own au
 **Backend**
 * Backend is developed with Node.js and express library.
 * to keep the track of music files and users and sessions, MySQL database is used.
-* to support different users, session and mysql-session library  is used.
+* to support different users, session and mysql-session libraries are used.
 * to upload files to server, formidable library is used.
 
 
