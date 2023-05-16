@@ -29,7 +29,10 @@ app.use(session({
     secret:'zxcmvn654654321asdfoiuyoiuy',
     store:sessionStore,
     resave:false,
-    saveUninitialized:false
+    saveUninitialized:true,
+	cookie: {
+        maxAge: 1000000
+    }
 }));
 
 const database = require('./db');
